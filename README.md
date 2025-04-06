@@ -19,6 +19,6 @@
 **Here is the dataset used:**  https://github.com/vinayd154/Data-Engineering-Using-Python/blob/main/DataSources.zip
 
 ## Scripts for project
-1. [Extract Python Script](/main/Extract.py)
-2. [Transform Python Script](main/Transform.py)
-3. [Load Python Script](/main/load.py)
+1. [Extract Python Script](Extract.py)
+2. [Transform Python Script](Transform.py)
+3. [Load Python Script](load.py)
