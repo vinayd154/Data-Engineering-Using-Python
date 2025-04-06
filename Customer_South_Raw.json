@@ -1,0 +1,1342 @@
+[
+    {
+        "Customer ID": "cg-12520",
+        "Customer Name": "Claire Gute",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Henderson",
+        "State": "Kentucky",
+        "Postal Code": "42420",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "so-20335",
+        "Customer Name": "Sean O'Donnell",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Fort Lauderdale",
+        "State": "Florida",
+        "Postal Code": "33311",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "aa-10480",
+        "Customer Name": "Andrew Allen",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Concord",
+        "State": "North Carolina",
+        "Postal Code": "28027",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "es-14080",
+        "Customer Name": "Erin Smith",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Melbourne",
+        "State": "Florida",
+        "Postal Code": "32935",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "kd-16270",
+        "Customer Name": "Karen Daniels",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Springfield",
+        "State": "Virginia",
+        "Postal Code": "22153",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "jc-15745",
+        "Customer Name": "Joel Eaton",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Memphis",
+        "State": "Tennessee",
+        "Postal Code": "38109",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "sc-20770",
+        "Customer Name": "Stewart Carmichael",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Decatur",
+        "State": "Alabama",
+        "Postal Code": "35601",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JC-16105",
+        "Customer Name": "Julie Creighton",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Durham",
+        "State": "North Carolina",
+        "Postal Code": "27707",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JM-15250",
+        "Customer Name": "Janet Martin",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "Postal Code": "28205",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "GG-14650",
+        "Customer Name": "Greg Guthrie",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Bristol",
+        "State": "Tennessee",
+        "Postal Code": "37620",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RM-19675",
+        "Customer Name": "Robert Marley",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Monroe",
+        "State": "Louisiana",
+        "Postal Code": "71203",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "HK-14890",
+        "Customer Name": "Heather Kirkland",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Franklin",
+        "State": "Tennessee",
+        "Postal Code": "37064",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "VD-21670",
+        "Customer Name": "Valerie Dominguez",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Columbia",
+        "State": "Tennessee",
+        "Postal Code": "38401",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EA-14035",
+        "Customer Name": "Erin Ashbrook",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "Postal Code": "28205",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CB-12535",
+        "Customer Name": "Claudia Bergmann",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Chapel Hill",
+        "State": "North Carolina",
+        "Postal Code": "27514",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AH-10195",
+        "Customer Name": "Alan Haines",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Tamarac",
+        "State": "Florida",
+        "Postal Code": "33319",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SH-20395",
+        "Customer Name": "Shahid Hopkins",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Arlington",
+        "State": "Virginia",
+        "Postal Code": "22204",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AG-10525",
+        "Customer Name": "Andy Gerbode",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Saint Petersburg",
+        "State": "Florida",
+        "Postal Code": "33710",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DJ-13510",
+        "Customer Name": "Don Jones",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Murfreesboro",
+        "State": "Tennessee",
+        "Postal Code": "37130",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "VB-21745",
+        "Customer Name": "Victoria Brennan",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DO-13435",
+        "Customer Name": "Denny Ordway",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Pembroke Pines",
+        "State": "Florida",
+        "Postal Code": "33024",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "LF-17185",
+        "Customer Name": "Luke Foster",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Miami",
+        "State": "Florida",
+        "Postal Code": "33180",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "NF-18385",
+        "Customer Name": "Natalie Fritzler",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jackson",
+        "State": "Mississippi",
+        "Postal Code": "39212",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RB-19795",
+        "Customer Name": "Ross Baird",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Gastonia",
+        "State": "North Carolina",
+        "Postal Code": "28052",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MK-18160",
+        "Customer Name": "Mike Kennedy",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RO-19780",
+        "Customer Name": "Rose O'Brian",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Memphis",
+        "State": "Tennessee",
+        "Postal Code": "38109",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MD-17350",
+        "Customer Name": "Maribeth Dona",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Fayetteville",
+        "State": "Arkansas",
+        "Postal Code": "72701",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CM-12385",
+        "Customer Name": "Christopher Martinez",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Atlanta",
+        "State": "Georgia",
+        "Postal Code": "30318",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "PH-18790",
+        "Customer Name": "Patricia Hirasaki",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Lakeland",
+        "State": "Florida",
+        "Postal Code": "33801",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RL-19615",
+        "Customer Name": "Rob Lucas",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Montgomery",
+        "State": "Alabama",
+        "Postal Code": "36116",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DK-12985",
+        "Customer Name": "Darren Koutras",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Henderson",
+        "State": "Kentucky",
+        "Postal Code": "42420",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AJ-10945",
+        "Customer Name": "Ashley Jarboe",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Wilmington",
+        "State": "North Carolina",
+        "Postal Code": "28403",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CA-12775",
+        "Customer Name": "Cynthia Arntzen",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Tampa",
+        "State": "Florida",
+        "Postal Code": "33614",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BD-11725",
+        "Customer Name": "Bruce Degenhardt",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Richmond",
+        "State": "Kentucky",
+        "Postal Code": "40475",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AS-10240",
+        "Customer Name": "Alan Shonely",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Tampa",
+        "State": "Florida",
+        "Postal Code": "33614",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DJ-13420",
+        "Customer Name": "Denny Joy",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Warner Robins",
+        "State": "Georgia",
+        "Postal Code": "31088",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "GT-14635",
+        "Customer Name": "Grant Thornton",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Burlington",
+        "State": "North Carolina",
+        "Postal Code": "27217",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MC-17845",
+        "Customer Name": "Michael Chen",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jackson",
+        "State": "Mississippi",
+        "Postal Code": "39212",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "NP-18325",
+        "Customer Name": "Naresj Patel",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Waynesboro",
+        "State": "Virginia",
+        "Postal Code": "22980",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BN-11470",
+        "Customer Name": "Brad Norvell",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Cary",
+        "State": "North Carolina",
+        "Postal Code": "27511",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AP-10915",
+        "Customer Name": "Arthur Prichep",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Palm Coast",
+        "State": "Florida",
+        "Postal Code": "32137",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SC-20695",
+        "Customer Name": "Steve Chapman",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Hialeah",
+        "State": "Florida",
+        "Postal Code": "33012",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-12250",
+        "Customer Name": "Chris Selesnick",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Bossier City",
+        "State": "Louisiana",
+        "Postal Code": "71111",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AJ-10795",
+        "Customer Name": "Anthony Johnson",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Saint Petersburg",
+        "State": "Florida",
+        "Postal Code": "33710",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JK-15730",
+        "Customer Name": "Joe Kamberova",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Asheville",
+        "State": "North Carolina",
+        "Postal Code": "28806",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MC-18130",
+        "Customer Name": "Mike Caudle",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Monroe",
+        "State": "Louisiana",
+        "Postal Code": "71203",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JL-15175",
+        "Customer Name": "James Lanier",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbia",
+        "State": "Tennessee",
+        "Postal Code": "38401",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AF-10885",
+        "Customer Name": "Art Foster",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Louisville",
+        "State": "Kentucky",
+        "Postal Code": "40214",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AJ-10780",
+        "Customer Name": "Anthony Jacobs",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Springfield",
+        "State": "Virginia",
+        "Postal Code": "22153",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JJ-15760",
+        "Customer Name": "Joel Jenkins",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Springfield",
+        "State": "Virginia",
+        "Postal Code": "22153",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SW-20275",
+        "Customer Name": "Scott Williamson",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jackson",
+        "State": "Mississippi",
+        "Postal Code": "39212",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "TB-21190",
+        "Customer Name": "Thomas Brumley",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Fayetteville",
+        "State": "Arkansas",
+        "Postal Code": "72701",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RW-19690",
+        "Customer Name": "Robert Waldorf",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Wilmington",
+        "State": "North Carolina",
+        "Postal Code": "28403",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SL-20155",
+        "Customer Name": "Sara Luxemburg",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MW-18235",
+        "Customer Name": "Mitch Willingham",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Virginia Beach",
+        "State": "Virginia",
+        "Postal Code": "23464",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RD-19585",
+        "Customer Name": "Rob Dowd",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Henderson",
+        "State": "Kentucky",
+        "Postal Code": "42420",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JH-15430",
+        "Customer Name": "Jennifer Halladay",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Burlington",
+        "State": "North Carolina",
+        "Postal Code": "27217",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "PS-19045",
+        "Customer Name": "Penelope Sewall",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "Postal Code": "28205",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-12355",
+        "Customer Name": "Christine Sundaresam",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Roswell",
+        "State": "Georgia",
+        "Postal Code": "30076",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "LH-16750",
+        "Customer Name": "Larry Hughes",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "Postal Code": "28205",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EJ-14155",
+        "Customer Name": "Eva Jacobs",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Gulfport",
+        "State": "Mississippi",
+        "Postal Code": "39503",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JR-15700",
+        "Customer Name": "Jocasta Rupert",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SM-20950",
+        "Customer Name": "Suzanne McNair",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Greenville",
+        "State": "North Carolina",
+        "Postal Code": "27834",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DC-12850",
+        "Customer Name": "Dan Campbell",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Florence",
+        "State": "Alabama",
+        "Postal Code": "35630",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "TC-21535",
+        "Customer Name": "Tracy Collins",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Arlington",
+        "State": "Virginia",
+        "Postal Code": "22204",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-12460",
+        "Customer Name": "Chuck Sachs",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "LW-16825",
+        "Customer Name": "Laurel Workman",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Deltona",
+        "State": "Florida",
+        "Postal Code": "32725",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "LP-17095",
+        "Customer Name": "Liz Preis",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Murray",
+        "State": "Kentucky",
+        "Postal Code": "42071",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EB-14170",
+        "Customer Name": "Evan Bailliet",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Wilmington",
+        "State": "North Carolina",
+        "Postal Code": "28403",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AS-10045",
+        "Customer Name": "Aaron Smayling",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "North Carolina",
+        "Postal Code": "28540",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "ND-18370",
+        "Customer Name": "Natalie DeCherney",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Louisville",
+        "State": "Kentucky",
+        "Postal Code": "40214",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "PP-18955",
+        "Customer Name": "Paul Prost",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Smyrna",
+        "State": "Georgia",
+        "Postal Code": "30080",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "YS-21880",
+        "Customer Name": "Yana Sorensen",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Burlington",
+        "State": "North Carolina",
+        "Postal Code": "27217",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KM-16375",
+        "Customer Name": "Katherine Murray",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Salem",
+        "State": "Virginia",
+        "Postal Code": "24153",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "PW-19030",
+        "Customer Name": "Pauline Webber",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Richmond",
+        "State": "Kentucky",
+        "Postal Code": "40475",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MC-17425",
+        "Customer Name": "Mark Cousins",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Mobile",
+        "State": "Alabama",
+        "Postal Code": "36608",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "ME-17320",
+        "Customer Name": "Maria Etezadi",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-12505",
+        "Customer Name": "Cindy Stewart",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Thomasville",
+        "State": "North Carolina",
+        "Postal Code": "27360",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BO-11425",
+        "Customer Name": "Bobby Odegard",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Richmond",
+        "State": "Kentucky",
+        "Postal Code": "40475",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "VG-21805",
+        "Customer Name": "Vivek Grady",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Virginia Beach",
+        "State": "Virginia",
+        "Postal Code": "23464",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MC-17275",
+        "Customer Name": "Marc Crier",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Lafayette",
+        "State": "Louisiana",
+        "Postal Code": "70506",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SW-20455",
+        "Customer Name": "Shaun Weien",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Suffolk",
+        "State": "Virginia",
+        "Postal Code": "23434",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "ML-17755",
+        "Customer Name": "Max Ludwig",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Suffolk",
+        "State": "Virginia",
+        "Postal Code": "23434",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CC-12685",
+        "Customer Name": "Craig Carroll",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Postal Code": "27405",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CH-12070",
+        "Customer Name": "Cathy Hwang",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Raleigh",
+        "State": "North Carolina",
+        "Postal Code": "27604",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "ND-18460",
+        "Customer Name": "Neil Ducich",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Macon",
+        "State": "Georgia",
+        "Postal Code": "31204",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BF-10975",
+        "Customer Name": "Barbara Fisher",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "Postal Code": "28205",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KH-16330",
+        "Customer Name": "Katharine Harms",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Bowling Green",
+        "State": "Kentucky",
+        "Postal Code": "42104",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AS-10090",
+        "Customer Name": "Adam Shillingsburg",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Charlottesville",
+        "State": "Virginia",
+        "Postal Code": "22901",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EH-13990",
+        "Customer Name": "Erica Hackney",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Roswell",
+        "State": "Georgia",
+        "Postal Code": "30076",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AM-10705",
+        "Customer Name": "Anne McFarland",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Auburn",
+        "State": "Alabama",
+        "Postal Code": "36830",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BW-11200",
+        "Customer Name": "Ben Wallace",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Boynton Beach",
+        "State": "Florida",
+        "Postal Code": "33437",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RH-19600",
+        "Customer Name": "Rob Haberlin",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Huntsville",
+        "State": "Alabama",
+        "Postal Code": "35810",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DB-13555",
+        "Customer Name": "Dorothy Badders",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MV-17485",
+        "Customer Name": "Mark Van Huff",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Arlington",
+        "State": "Virginia",
+        "Postal Code": "22204",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SM-20320",
+        "Customer Name": "Sean Miller",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Monroe",
+        "State": "North Carolina",
+        "Postal Code": "28110",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "PJ-18835",
+        "Customer Name": "Patrick Jones",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Murfreesboro",
+        "State": "Tennessee",
+        "Postal Code": "37130",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KW-16570",
+        "Customer Name": "Kelly Williams",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Clarksville",
+        "State": "Tennessee",
+        "Postal Code": "37042",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CM-11935",
+        "Customer Name": "Carlos Meador",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Fayetteville",
+        "State": "North Carolina",
+        "Postal Code": "28314",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DB-12910",
+        "Customer Name": "Daniel Byrd",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Tampa",
+        "State": "Florida",
+        "Postal Code": "33614",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BD-11635",
+        "Customer Name": "Brian Derr",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Bowling Green",
+        "State": "Kentucky",
+        "Postal Code": "42104",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KN-16450",
+        "Customer Name": "Kean Nguyen",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SC-20680",
+        "Customer Name": "Steve Carroll",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RH-19555",
+        "Customer Name": "Ritsa Hightower",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Tallahassee",
+        "State": "Florida",
+        "Postal Code": "32303",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JP-16135",
+        "Customer Name": "Julie Prescott",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CA-11965",
+        "Customer Name": "Carol Adams",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Hoover",
+        "State": "Alabama",
+        "Postal Code": "35244",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DM-13345",
+        "Customer Name": "Denise Monton",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Roswell",
+        "State": "Georgia",
+        "Postal Code": "30076",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CC-12370",
+        "Customer Name": "Christopher Conant",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Fayetteville",
+        "State": "North Carolina",
+        "Postal Code": "28314",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "HG-14845",
+        "Customer Name": "Harry Greene",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Lake Charles",
+        "State": "Louisiana",
+        "Postal Code": "70601",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BP-11155",
+        "Customer Name": "Becky Pak",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JB-16045",
+        "Customer Name": "Julia Barnett",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "TC-21475",
+        "Customer Name": "Tony Chapman",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EH-14185",
+        "Customer Name": "Evan Henry",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Decatur",
+        "State": "Alabama",
+        "Postal Code": "35601",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "TS-21505",
+        "Customer Name": "Tony Sayre",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Columbia",
+        "State": "Tennessee",
+        "Postal Code": "38401",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "DH-13075",
+        "Customer Name": "Dave Hallsten",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Richmond",
+        "State": "Kentucky",
+        "Postal Code": "40475",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "HJ-14875",
+        "Customer Name": "Heather Jas",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MH-17455",
+        "Customer Name": "Mark Hamilton",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "North Carolina",
+        "Postal Code": "28540",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SU-20665",
+        "Customer Name": "Stephanie Ulpright",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Jackson",
+        "State": "Mississippi",
+        "Postal Code": "39212",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "NC-18415",
+        "Customer Name": "Nathan Cano",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "North Carolina",
+        "Postal Code": "28540",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KE-16420",
+        "Customer Name": "Katrina Edelman",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Bristol",
+        "State": "Tennessee",
+        "Postal Code": "37620",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-12175",
+        "Customer Name": "Charles Sheldon",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Columbia",
+        "State": "Tennessee",
+        "Postal Code": "38401",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "KM-16660",
+        "Customer Name": "Khloe Miller",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Roswell",
+        "State": "Georgia",
+        "Postal Code": "30076",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SH-20635",
+        "Customer Name": "Stefanie Holloman",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Jackson",
+        "State": "Tennessee",
+        "Postal Code": "38301",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "RD-19720",
+        "Customer Name": "Roger Demir",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Daytona Beach",
+        "State": "Florida",
+        "Postal Code": "32114",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "CS-11860",
+        "Customer Name": "Cari Schnelling",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "North Carolina",
+        "Postal Code": "28540",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "JM-15580",
+        "Customer Name": "Jill Matthias",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Monroe",
+        "State": "North Carolina",
+        "Postal Code": "28110",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BG-11035",
+        "Customer Name": "Barry Gonzalez",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Monroe",
+        "State": "Louisiana",
+        "Postal Code": "71203",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "BW-11065",
+        "Customer Name": "Barry Weirich",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Raleigh",
+        "State": "North Carolina",
+        "Postal Code": "27604",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "MG-18205",
+        "Customer Name": "Mitch Gastineau",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Postal Code": "32216",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "EM-14200",
+        "Customer Name": "Evan Minnotte",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Virginia Beach",
+        "State": "Virginia",
+        "Postal Code": "23464",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "SS-20515",
+        "Customer Name": "Shirley Schmidt",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Louisville",
+        "State": "Kentucky",
+        "Postal Code": "40214",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "AR-10570",
+        "Customer Name": "Anemone Ratner",
+        "Segment": "Consumer",
+        "Country/Region": "United states",
+        "City": "Columbus",
+        "State": "Georgia",
+        "Postal Code": "31907",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "FW-14395",
+        "Customer Name": "Fred Wasserman",
+        "Segment": "Corporate",
+        "Country/Region": "United states",
+        "City": "Huntsville",
+        "State": "Alabama",
+        "Postal Code": "35810",
+        "Region": "South"
+    },
+    {
+        "Customer ID": "LC-16960",
+        "Customer Name": "Lindsay Castell",
+        "Segment": "Home office",
+        "Country/Region": "United states",
+        "City": "Arlington",
+        "State": "Virginia",
+        "Postal Code": "22204",
+        "Region": "South"
+    }
+]
